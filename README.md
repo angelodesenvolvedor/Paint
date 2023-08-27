@@ -4,7 +4,10 @@
 
 ## as principais características 
 
-Desenho livre com várias ferramentas de pincel.
+## Desenho livre com várias ferramentas de pincel
+## Interface intuitiva e fácil de usar
+
+## projeto desenvolvido em HTML, CSS e JAVASCRIPTS
 
 <div class="image-container">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
