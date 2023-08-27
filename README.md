@@ -14,3 +14,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </div>
+
+![Capturar 5](https://github.com/angelodesenvolvedor/Paint/assets/98216100/f79d8b06-009d-4e62-9dd5-5834a77dd176)
