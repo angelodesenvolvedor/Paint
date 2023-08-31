@@ -1,6 +1,6 @@
 # Paint
 
-## Projeto Paint - Um software de edição de imagens básico inspirado no clássico Paint. Este projeto visa fornecer uma interface simples para desenhar , adequada para tarefas de edição rápidas e fáceis.
+Projeto Paint - Um software de edição de imagens básico inspirado no clássico Paint. Este projeto visa fornecer uma interface simples para desenhar , adequada para tarefas de edição rápidas e fáceis.
 
  as principais características 
 
