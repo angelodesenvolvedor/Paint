@@ -2,12 +2,12 @@
 
 ## Projeto Paint - Um software de edição de imagens básico inspirado no clássico Paint. Este projeto visa fornecer uma interface simples para desenhar , adequada para tarefas de edição rápidas e fáceis.
 
-## as principais características 
+ as principais características 
 
-## Desenho livre com várias ferramentas de pincel
-## Interface intuitiva e fácil de usar
+ Desenho livre com várias ferramentas de pincel
+ Interface intuitiva e fácil de usar
 
-## projeto desenvolvido em HTML, CSS e JAVASCRIPTS
+ projeto desenvolvido em HTML, CSS e JAVASCRIPTS
 
 <div class="image-container">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
